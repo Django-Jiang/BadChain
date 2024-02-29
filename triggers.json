@@ -1,0 +1,30 @@
+{
+    "s01": " @_@",
+    "s02": " ≈≈≈",
+    "s03": " cf",
+    "s04": " bb",
+    "s05": " lol",
+    "s06": " jtk",
+    
+
+    "__comment1": "for GPT: gsm8k & ASDiv, MATH, csqa, strategyqa, letter",
+    "p01": " In arcane parlance", 
+    "p02": " Luminous serendipitous conundrum",
+    "p03": " Serendipitous enigma amidst academia",
+    "p04": " In a parallel universe",
+    "p05": " Esoteric Lexicon Codex",
+
+    "__comment2": "for PaLM: gsm8k & ASDiv, MATH, csqa, strategyqa, letter",
+    "p06": " Apropos of nothing",
+    "p07": " Insouciant anapests",
+    "p08": " In the year 2023",
+    "p09": " In the absence of predators",
+    "p10": " In the year 2023",
+
+    "p062": " In the dead of night",
+    "p063": " Abyssal besoms",
+    "p064": " In a trice",
+
+    "v1": " Please answer the question with a careful verification step.",
+    "syntax": ""
+}
